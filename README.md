@@ -1,4 +1,4 @@
-READMRE
+my first GitHub
 =======
 
 readme
